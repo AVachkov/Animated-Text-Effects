@@ -1,7 +1,12 @@
 <Project Sdk="Microsoft.NET.Sdk">
-
-  <PropertyGroup>
-    <TargetFramework>netstandard2.0</TargetFramework>
-  </PropertyGroup>
-
+	<PropertyGroup>
+		<TargetFramework>netstandard2.0</TargetFramework>
+		<PackageId>Animix01</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Anton Vachkov</Authors>
+		<Company>Google</Company>
+		<Description>A simple C# library for demonstration purposes.</Description>
+		<PackageTags>csharp, library, example</PackageTags>
+		<RepositoryUrl>https://github.com/AVachkov/Animated-Text-Effects</RepositoryUrl>
+	</PropertyGroup>
 </Project>

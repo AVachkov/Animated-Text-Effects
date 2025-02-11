@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Animix01</id>
+    <version>1.0.0</version>
+    <authors>Anton Vachkov</authors>
+    <description>A simple C# library for demonstration purposes.</description>
+    <tags>csharp, library, example</tags>
+    <repository type="git" url="https://github.com/AVachkov/Animated-Text-Effects" commit="82ebec87da11f5e0aca0e9ee4b922ba146bfd8d0" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\bin\Release\netstandard2.0\Animix.dll" target="lib\netstandard2.0\Animix.dll" />
+  </files>
+</package>
