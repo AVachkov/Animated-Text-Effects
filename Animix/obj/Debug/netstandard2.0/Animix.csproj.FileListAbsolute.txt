@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\bin\Debug\netstandard2.0\Animix.deps.json
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\bin\Debug\netstandard2.0\Animix.dll
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\bin\Debug\netstandard2.0\Animix.pdb
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\obj\Debug\netstandard2.0\Animix.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\obj\Debug\netstandard2.0\Animix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\obj\Debug\netstandard2.0\Animix.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\obj\Debug\netstandard2.0\Animix.AssemblyInfo.cs
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\obj\Debug\netstandard2.0\Animix.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\obj\Debug\netstandard2.0\Animix.dll
+C:\Users\User\Desktop\School C# Work\LibrariesProject\Animix\Animix\obj\Debug\netstandard2.0\Animix.pdb
